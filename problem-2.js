@@ -6,7 +6,3 @@ function  onlyCharacter( str ) {
     const uppercase = allCharacters.toUpperCase(allCharacters);
     return uppercase;
 }
-
-const str = true;
-const result = onlyCharacter(str);
-console.log(result);
