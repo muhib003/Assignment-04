@@ -8,9 +8,3 @@ function isSame(arr1, arr2) {
         return true;
     }
 }
-
-const arr1 = [1, 2, 3];
-const arr2 = [1, 2, 3];
-
-const result = isSame(arr1, arr2);
-console.log(result);

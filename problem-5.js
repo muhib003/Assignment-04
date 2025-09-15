@@ -22,7 +22,3 @@ function  resultReport( marks ) {
     }
     return finalResult;
 }
-
-const marks = [];
-const result = resultReport(marks);
-console.log(result);
